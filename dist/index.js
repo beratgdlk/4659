@@ -48,8 +48,8 @@ console.log(`Profit 1:${profit1},| Profit 2:${profit2}`);
 const ages = [];
 // -------
 const gameBoard = [
-    ["Berat", "Güdelek"],
-    ["XX", "YY", "ZZ"],
+    ["Berat", "Asya"],
+    ["Ayşe", "Ege", "Zeynep"],
 ];
 // -------
 const getTotal = (array) => {
